@@ -9,12 +9,12 @@
 <table>
   <tr>
     <td>First Screen Page</td>
-     <td>Holiday Mention</td>
+     <td>Home Screen</td>
      <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Basu0369/movie_streaming_app/blob/master/images/moviepage.png?raw=true" width=270 height=480></td>
-    <td><img src="https://github.com/Basu0369/movie_streaming_app/blob/master/images/moviepage.png?raw=true" width=270 height=480></td>
+    <td><img src="https://raw.githubusercontent.com/Basu0369/movie_streaming_app/ec2d5ada42adbbc8fa3c4fad11dfb4fe38690831/images/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202022-12-26%20at%2002.09.04.png" width=270 height=480></td>
+    <td><img src="https://github.com/Basu0369/movie_streaming_app/blob/master/images/homescreen.png?raw=true" width=270 height=480></td>
     <td><img src="https://github.com/Basu0369/movie_streaming_app/blob/master/images/moviepage.png?raw=true" width=270 height=480></td>
   </tr>
  </table>
