@@ -6,6 +6,12 @@
 
 <img src="https://github.com/Basu0369/movie_streaming_app/blob/master/images/moviepage.png?raw=true" width="200" height="300">
 
+<p float="left">
+  <img src="[/img1.png](https://github.com/Basu0369/movie_streaming_app/blob/master/images/moviepage.png?raw=true)" width="100" />
+  <img src="[/img2.png](https://github.com/Basu0369/movie_streaming_app/blob/master/images/homescreen.png?raw=true)" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
