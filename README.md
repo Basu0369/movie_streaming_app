@@ -6,11 +6,18 @@
 
 <img src="https://github.com/Basu0369/movie_streaming_app/blob/master/images/moviepage.png?raw=true" width="200" height="300">
 
-<p float="left">
-  <img src="[/img1.png](https://github.com/Basu0369/movie_streaming_app/blob/master/images/moviepage.png?raw=true)" width="100" />
-  <img src="[/img2.png](https://github.com/Basu0369/movie_streaming_app/blob/master/images/homescreen.png?raw=true)" width="100" /> 
-  <img src="/img3.png" width="100" />
-</p>
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="[screenshots/Screenshot_1582745092.png](https://github.com/Basu0369/movie_streaming_app/blob/master/images/moviepage.png?raw=true)" width=270 height=480></td>
+    <td><img src="[screenshots/Screenshot_1582745125.png](https://github.com/Basu0369/movie_streaming_app/blob/master/images/moviepage.png?raw=true)" width=270 height=480></td>
+    <td><img src="[screenshots/Screenshot_1582745139.png](https://github.com/Basu0369/movie_streaming_app/blob/master/images/moviepage.png?raw=true)" width=270 height=480></td>
+  </tr>
+ </table>
 
 This project is a starting point for a Flutter application.
 
