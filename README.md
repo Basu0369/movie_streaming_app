@@ -1,8 +1,5 @@
 # movie_streaming_app
-
-A new Flutter project.
-
-## Getting Started
+https://github.com/Basu0369/movie_streaming_app/blob/ec2d5ada42adbbc8fa3c4fad11dfb4fe38690831/images/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202022-12-26%20at%2002.09.04.png
 
 This project is a starting point for a Flutter application.
 
