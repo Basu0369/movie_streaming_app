@@ -1,4 +1,4 @@
-# movie_streaming_app
+# Movie Streaming App Flutter
 
 <!-- <img src="https://raw.githubusercontent.com/Basu0369/movie_streaming_app/ec2d5ada42adbbc8fa3c4fad11dfb4fe38690831/images/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202022-12-26%20at%2002.09.04.png" width="200" height="300">
 
