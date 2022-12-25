@@ -1,6 +1,8 @@
 # movie_streaming_app
 ![Alt text](https://raw.githubusercontent.com/Basu0369/movie_streaming_app/ec2d5ada42adbbc8fa3c4fad11dfb4fe38690831/images/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202022-12-26%20at%2002.09.04.png "Optional title")
 
+<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width="150" height="280">
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
