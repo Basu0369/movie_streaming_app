@@ -1,5 +1,5 @@
 # movie_streaming_app
-![Alt text](images/Simulator Screen Shot - iPhone 11 Pro - 2022-12-26 at 02.09.04.png "Optional title")
+![Alt text]([images/Simulator Screen Shot - iPhone 11 Pro - 2022-12-26 at 02.09.04.png](https://github.com/Basu0369/movie_streaming_app/blob/ec2d5ada42adbbc8fa3c4fad11dfb4fe38690831/images/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202022-12-26%20at%2002.09.04.png) "Optional title")
 
 This project is a starting point for a Flutter application.
 
